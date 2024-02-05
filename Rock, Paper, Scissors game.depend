@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1707157237 source:e:\courses\technohacks internship\c++\tasks\task3 rock, paper, scissors game\rock, paper, scissors game\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
